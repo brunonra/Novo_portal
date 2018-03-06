@@ -5,8 +5,7 @@
 
 <body>
         <div id="cima">
-		<div id="logo"><img src='imagens/hitss.jpg' height=80px width=180px /> </div>
-                <h1>Obsolescencia 2018 </h1>
+		<h1>Obsolescencia 2018 </h1>
         </div>
         <div id="menu">
                 <ul>
