@@ -8,18 +8,6 @@
 
 }
 
-#logo {
-        float: left;
-        height: 80px;
-        width: 180px;
-        padding: 5px;
-        /*margin: 1px 10px 10px 10px;*/
-	background-image: url('imagens/hitss.jpg');
-	background-size: cover;
-        position: relative;
-	border: 5px solid black;
-}
-
 #menu {
 	width: 180px;
         height: 635px;
