@@ -3,7 +3,7 @@
 	
 <body>
 	<div id="cima">
-		<div id="logo"><img src='imagens/hitss.jpg' height=80px width=180px /> </div>
+		
 		<h1>Inventarios de Hosts de VMWare </h1>
         </div>
 	<div id="menu">
