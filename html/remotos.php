@@ -3,7 +3,7 @@
 	
 <body>
 	<div id="cima">
-		<div id="logo"><img src='imagens/hitss.jpg' height=80px width=180px /> </div>
+		
 		<h1>Lista de ILOs e acessos remotos </h1>
         </div>
 	<div id="menu">
