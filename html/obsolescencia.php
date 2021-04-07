@@ -24,7 +24,7 @@
 
 		<?php
 	//		echo "Inicio: <br>";
-	$strBanco = "host=localhost port=5432 dbname=portalsrv_tst user=portalusr password=P0rtal!";
+	$strBanco = "host=localhost port=5432 dbname=portalsrv_tst user=portalusr password=P0rta1!";
 	
 		if(!@($conexao = pg_connect($strBanco))){
 		print "Não foi possível estabelecer uma conexão com o banco de dados.";
